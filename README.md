@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/6aSncIN19j8AAAAC/banner.gif)](https://media.tenor.com/6aSncIN19j8AAAAC/banner.gif)
+<p style="text-align:center;">[![MasterHead](https://media.tenor.com/6aSncIN19j8AAAAC/banner.gif)](https://media.tenor.com/6aSncIN19j8AAAAC/banner.gif)
 
 <h1 align="center">Hi 👋, I'm Christy</h1>
 <h3 align="center">A passionate Python Developer From Vancouver</h3>
