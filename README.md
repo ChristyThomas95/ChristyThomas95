@@ -1,4 +1,4 @@
-![logo](https://i.pinimg.com/originals/17/a0/9c/17a09c9bcb554bcbbad6e84ab4687792.gif)
+![logo](https://github.com/ChristyThomas95/ChristyThomas95/blob/main/gif.gif)
 <h1 align="center">Christy Thomas</h1>
 <h3 align="center">A python Developer</h3>
 
