@@ -3,13 +3,13 @@
 <h1 align="center">Hi 👋, I'm Christy</h1>
 <h3 align="center">A passionate Python Developer From Vancouver</h3>
 
-- 🔭 I’m currently working on **A Inventory Management System Using AI**
+- 🔭 I’m currently working on personal project  **A Inventory Management System Using AI**
 
 - 🌱 I’m currently learning **Machine Learning and Data Analysis**
 
 - 🤝 I’m looking for help with **Python Django**
 
-- 💬 Ask me about **Python, React & Jeeps**
+- 💬 Ask me about **Python, React & food**
 
 - 📫 How to reach me **Christythomas.95@outlook.com**
 
