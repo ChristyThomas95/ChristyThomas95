@@ -1,6 +1,6 @@
 ![logo](https://github.com/ChristyThomas95/ChristyThomas95/blob/main/gif.gif)
 <h1 align="center">Christy Thomas</h1>
-<h3 align="center">A python Developer</h3>
+<h3 align="center">A Python Developer</h3>
 
 - Currently working on a **Python Project to Add AI into a inventory system**
 
